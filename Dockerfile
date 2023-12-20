@@ -4,4 +4,4 @@ WORKDIR /app
 
 COPY . .
 
-ENTRYPOINT ["dotnet", "ComHotDataProcessCenter.dll"]
+ENTRYPOINT ["dotnet", "ocp_test.dll"]
