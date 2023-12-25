@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "HM7iDVXEHPQV7lXBpxSqplObuULgAoXHt/gelCzBQjk=",
+  "Source": "ocp_test",
+  "BasePath": "_content/ocp_test",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

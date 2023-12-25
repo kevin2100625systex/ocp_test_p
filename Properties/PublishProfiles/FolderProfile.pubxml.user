@@ -3,4 +3,9 @@
 https://go.microsoft.com/fwlink/?LinkID=208121.
 -->
 <Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\systex_git\ocp_test_p\bin\Release\net6.0\publish\</_PublishTargetUrl>
+    <History>True|2023-12-25T09:13:37.5435133Z;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
 </Project>

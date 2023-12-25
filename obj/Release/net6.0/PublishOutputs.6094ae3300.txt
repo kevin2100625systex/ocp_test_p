@@ -1,0 +1,11 @@
+D:\systex_git\ocp_test_p\obj\Release\net6.0\PubTmp\Out\ocp_test.exe
+D:\systex_git\ocp_test_p\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\systex_git\ocp_test_p\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\systex_git\ocp_test_p\obj\Release\net6.0\PubTmp\Out\ocp_test.dll
+D:\systex_git\ocp_test_p\obj\Release\net6.0\PubTmp\Out\ocp_test.deps.json
+D:\systex_git\ocp_test_p\obj\Release\net6.0\PubTmp\Out\ocp_test.runtimeconfig.json
+D:\systex_git\ocp_test_p\obj\Release\net6.0\PubTmp\Out\ocp_test.pdb
+D:\systex_git\ocp_test_p\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\systex_git\ocp_test_p\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\systex_git\ocp_test_p\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\systex_git\ocp_test_p\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
